@@ -1,0 +1,1 @@
+untuk memulai webnya ketik nodemon app di gitbash
