@@ -1,16 +1,25 @@
 # Progress
 
-Progress adalah sebuah website **roadmap belajar teknologi** yang membantu pengguna memahami alur pembelajaran untuk Backend, Frontend, dan lainnya. Selain itu, Progress juga menyediakan **tempat belajar berbagai bahasa pemrograman** dengan sumber belajar yang mudah diakses.
+Progress is a website that serves as a **learning roadmap for technology**. It helps users understand the learning path for different fields such as **Backend, Frontend**, and more. Additionally, Progress provides a **place to learn various programming languages** with accessible resources.
 
-## Fitur
-- Roadmap lengkap untuk Backend, Frontend, dan bidang teknologi lainnya
-- Tempat belajar berbagai bahasa pemrograman
-- Tutorial langkah demi langkah
-- UI sederhana dan mudah digunakan
+## Features
+- Complete roadmap for Backend, Frontend, and other tech fields
+- Learning resources for various programming languages
+- Step-by-step tutorials to improve coding skills
+- Simple and user-friendly UI
 
-## Instalasi
+## Preview
 
-1. Clone repository ini:
+<p float="left">
+  <img src="img/preview1.png" width="48%" />
+  <img src="img/preview2.png" width="48%" />
+</p>
+
+> Make sure both image files exist in the `img` folder.
+
+## Installation
+
+1. Clone the repository:
 ```bash
 git clone https://github.com/username/progress.git
 cd progress
@@ -21,15 +30,15 @@ cd progress
 npm install
 ```
 
-3. Jalankan website:
+3. Run the website:
 ```bash
 nodemon app.js
 ```
 
-> Website akan berjalan di `http://localhost:3000` (atau port yang ditentukan di `app.js`).
+> The website will run at `http://localhost:3000` (or the port specified in `app.js`).
 
-## Kontribusi
-Kontribusi selalu diterima! Silakan fork repository ini dan buat pull request jika ingin menambahkan fitur atau perbaikan.
+## Contribution
+Contributions are welcome! Feel free to fork the repository and submit a pull request to add new features or improvements.
 
-## Lisensi
+## License
 MIT License © 2025 Progress
