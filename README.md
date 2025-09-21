@@ -15,8 +15,6 @@ Progress is a website that serves as a **learning roadmap for technology**. It h
   <img src="img/preview2.png" width="48%" />
 </p>
 
-> Make sure both image files exist in the `img` folder.
-
 ## Installation
 
 1. Clone the repository:
